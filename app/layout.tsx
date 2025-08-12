@@ -5,15 +5,15 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Gestor de Tareas",
+  title: "DoWork",
   description: "Organiza tu tiempo y tareas con estilo",
   generator: "Next.js",
   manifest: "/manifest.json",
   keywords: ["tareas", "productividad", "organización", "agenda"],
   authors: [{ name: "Tu Nombre" }],
   icons: {
-    icon: "/icon-192.png",
-    apple: "/icon-192.png",
+    icon: "/DoWork.png",
+    apple: "/DoWork.png",
   },
   appleWebApp: {
     capable: true,
